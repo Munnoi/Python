@@ -5,8 +5,7 @@ menu = {"pizza": 3.00,
         "chips": 1.00,
         "pretzel": 3.50,
         "soda": 3.00,
-        "lemonade": 4.25
-        }
+        "lemonade": 4.25}
 
 cart = []
 total = 0
